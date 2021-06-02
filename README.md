@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 ## How to Conntribute
 No idea
+
+## Copyright
+2014 Git.Training
