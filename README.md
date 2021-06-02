@@ -11,7 +11,7 @@ As started above
 
 ### Deployment
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.It is best for deployment
 
 ## How to Conntribute
 No idea
